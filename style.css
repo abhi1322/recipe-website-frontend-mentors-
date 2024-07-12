@@ -43,7 +43,7 @@ h3 {
 
 .recipe-container {
   width: 50vw;
-  background-color: var(--color-rose-white);
+  background-color: var(--color-white);
   padding: 3.5rem;
   border-radius: 2rem;
 }
